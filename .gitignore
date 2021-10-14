@@ -3,5 +3,7 @@
 .download
 vendor
 output
+log
+mini_spider
 .*.swp
 .*.swo

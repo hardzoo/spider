@@ -9,12 +9,25 @@ go build -o mini_spider main.go
 ## 用法
 ```
 Usage of ./mini_spider:
+  -alsologtostderr
+    	log to standard error as well as files
   -c string
     	assign config file path (default "./conf/spider.conf")
   -h	show spider help
-  -l string
-    	assign log file path (default "./log")
-  -v	show spider version
+  -log_backtrace_at value
+    	when logging hits line file:N, emit a stack trace
+  -log_dir string
+    	If non-empty, write log files in this directory
+  -logtostderr
+    	log to standard error instead of files
+  -stderrthreshold value
+    	logs at or above this threshold go to stderr
+  -v value
+    	log level for V logs
+  -version
+    	show spider version
+  -vmodule value
+    	comma-separated list of pattern=N settings for file-filtered logging
 ```
 
 ## 测试
