@@ -1,0 +1,7 @@
+.svn
+.tmp
+.download
+vendor
+output
+.*.swp
+.*.swo
