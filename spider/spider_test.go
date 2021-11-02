@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/zhuzeyu/spider/config"
+	"github.com/withzoo/spider/config"
 )
 
 func TestSpider(t *testing.T) {

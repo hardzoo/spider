@@ -18,8 +18,8 @@ import (
 
 	log "github.com/golang/glog"
 
-	"github.com/zhuzeyu/spider/config"
-	"github.com/zhuzeyu/spider/utils"
+	"github.com/withzoo/spider/config"
+	"github.com/withzoo/spider/utils"
 )
 
 const (

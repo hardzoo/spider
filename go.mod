@@ -1,4 +1,4 @@
-module github.com/zhuzeyu/spider
+module github.com/withzoo/spider
 
 go 1.17
 
